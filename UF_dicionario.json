@@ -1,0 +1,22 @@
+{
+    "1": {
+        "Localidade": "S\u00e3o Paulo",
+        "Faixa_CEP": "01000 \u00e0 19999",
+        "Id": 1
+    },
+    "2": {
+        "Localidade": "S\u00e3o Paulo",
+        "Faixa_CEP": "08000 \u00e0 08999",
+        "Id": 2
+    },
+    "3": {
+        "Localidade": "Florian\u00f3polis",
+        "Faixa_CEP": "88001 \u00e0 88999",
+        "Id": 3
+    },
+    "4": {
+        "Localidade": "Fortaleza",
+        "Faixa_CEP": "60001 \u00e0 61999",
+        "Id": 4
+    }
+}
